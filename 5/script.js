@@ -4,4 +4,4 @@ let distanceValue = prompt(
 );
 let timeValue = prompt("Please write the time you want to cover this distance");
 const yourSpeed = distanceValue / timeValue;
-alert(`${yourSpeed}`);
+alert(yourSpeed);
